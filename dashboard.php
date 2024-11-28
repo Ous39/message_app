@@ -73,7 +73,7 @@ if ($_SERVER['REQUEST_METHOD'] == 'POST' && isset($_POST['recipients'])) {
 </head>
 <body>
     <div class="container">
-        <h2>Send Message</h2>
+        <h2>Send a message to one or multiple recipients simultaneously.</h2>
 
         <form method="POST">
             <label>
